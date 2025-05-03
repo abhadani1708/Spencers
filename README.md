@@ -18,8 +18,8 @@ A Point of Sale (POS) application for retail environments, designed to simplify 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (or React if applicable)  
-- **Backend:** Node.js / Spring Boot (customize as per your stack)  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js
 - **Database:** MySQL / MongoDB  
 - **Version Control:** Git & GitHub
 
@@ -28,8 +28,7 @@ A Point of Sale (POS) application for retail environments, designed to simplify 
 ### Prerequisites
 
 - Git installed  
-- Node.js and npm (if using Node.js backend)  
-- Java & Maven (if using Spring Boot)
+- Node.js and npm (if using Node.js backend)
 
 ### Clone the repository
 
