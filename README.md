@@ -41,10 +41,10 @@ A full-featured Point of Sale (POS) system tailored for retail businesses. The s
 
 ### Frontend:
 - HTML5, CSS3, JavaScript
-- React.js *(if applicable)*
+- React.js
 
 ### Backend:
-- Node.js with Express *(or)* Spring Boot (Java)
+- Node.js with Express
 
 ### Database:
 - MySQL *(or)* MongoDB
