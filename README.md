@@ -47,7 +47,7 @@ A full-featured Point of Sale (POS) system tailored for retail businesses. The s
 - Node.js with Express
 
 ### Database:
-- MySQL *(or)* MongoDB
+- MySQL
 
 ### DevOps / Tools:
 - Git & GitHub
